@@ -101,7 +101,9 @@ export default function Weather(){
             </li>
           </ul>
         </div>
+        
       </div>
+      <a href="https://github.com/oliviaphyu/weather-react">Open Source code</a> by Phyu Sin Lin.
     </div>
     );
 }
