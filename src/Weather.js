@@ -80,13 +80,13 @@ export default function Weather(){
             {Math.round(temp)}℃
           </p>
           <span class="link-style">
-            <a href="#" id="clink" class="active">
+            {/* <a href="#" id="clink" class="active">
               ℃
             </a>
             |
             <a href="#" id="flink">
               ℉
-            </a>
+            </a> */}
           </span>
         </div>
         <div class="weather-details">
